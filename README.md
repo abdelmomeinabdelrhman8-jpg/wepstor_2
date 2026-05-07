@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif; /* تصحيح كلمة Arial */
             margin: 0;
             padding: 0;
-            background-color: green;
+            background-color: red;
         }
         header {
             background-color: #333;
